@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabsWithViewPager</string>
+    <string name="Asset_fragment">Asset Fragment</string>
+    <string name="Liabilities_fragment">Liabilities Fragment</string>
+    <string name="Investments_fragment">Investments Fragment</string>
+    <string name="btn_one">Button 1</string>
+    <string name="btn_two">Button 2</string>
+    <string name="btn_three">Button 3</string>
+</resources>
